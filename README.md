@@ -1,0 +1,1 @@
+Banco de dados elaborado durante as aulas do professor Isidro Masseto. Aprendizado sobre CRUD utilizando tanto o MySql Workbench quanto a command line. Banco elaborado utilizando modelo entidade-relacionamento e modelo-relacional.
